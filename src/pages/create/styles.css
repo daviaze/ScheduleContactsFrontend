@@ -1,0 +1,16 @@
+form#new-contact {
+  width: 100%;
+  max-width: 580px;
+  margin: 30px auto 0;
+  padding: 30px;
+  background: white;
+  border: 1px solid #ddd;
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+
+
+
